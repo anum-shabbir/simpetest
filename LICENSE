@@ -19,3 +19,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+git clone --> created local copy of branch
+git branch --> tells which branch you're in 
+git branch -a --> tells you're in local copy but there is a master copy
+git status --> tells you  the branch name and if the files are in sync
+
+Make changes 
+git status --> modified changes 
+git add .  --> add all files 
+git status --> check changes (file in green)
+git commit --> commit
+git commit -m "add comment with  ID#" --> adding comments
